@@ -1,0 +1,86 @@
+- institution: Lawrence Livermore National Lab
+  location: "Livermore, CA"
+  position: Graduate Research Intern
+  group: "Computing at LLNL"
+  year: May 2021 —
+  year-extra: Present
+  description: "Developed highly generalizable Zero-Shot Learning architecture with novel regularization techniques, a pre-trained vision pipeline, and external knowledge retrieval."
+  group-url: https://computing.llnl.gov/
+  type: industry
+  ismentor: true
+  mentors:
+    - Jayaraman Thiagarajan
+    - Rushil Anirudh
+    - Jayram Thathachar
+
+- institution: General Dynamics Mission Systems
+  location: "Scottsdale, AZ"
+  position: Senior Digital Signal Processing Engineer
+  group: "Trusted Space Solutions"
+  year: May 2018 —
+  year-extra: Dec. 2019
+  description: "Created specifications for the standard operation and packet-level communication of devices in an edge computing framework.
+  Developed algorithms for detecting communication and radar signals of interest and estimating their time and frequency characteristics for downstream decoding, classification, and localization tasks.
+  Automated and optimized the creation of data compression pipelines for efficient communication channels and downstream data visualization tasks based on project requirements."
+  institution-url: https://gdmissionsystems.com/
+  type: industry
+  ismentor: False
+
+- institution: Arizona State University
+  location: "Tempe, AZ"
+  position: PhD Researcher
+  group:  Active Perception Group
+  year: "Jan. 2020 —"
+  year-extra: "Present"
+  ismentor: true
+  mentors:
+    - Yezhou Yang
+  description: "Exploring concepts like knowledge representation/extraction, model generalization/robustness, and inference consistency/evaluation in Natural Language and Image Processing applications.
+  Sole first author of a novel information theory based evaluation of captions for semantics and fluency presented in ACL 2021 (Oral).
+  First author of two follow-on works which fundamentally redefine evaluation approaches in object detection and model generalization/robustness (an early draft of the robustness work will be presented in a NeurIPS 2022 workshop)."
+  institution-url: https://www.asu.edu/
+  group-url: https://yezhouyang.engineering.asu.edu/research-group/
+  type: industry
+
+- institution: Arizona State University
+  location: "Tempe, AZ"
+  position: Master's Research Assistant
+  group:  Image, Video, and Usability (IVU) Lab 
+  year: "Jan. 2017 —"
+  year-extra: "Dec. 2017"
+  ismentor: true
+  mentors:
+    - Lina Karam
+  advisor: true
+  description: "Built software frameworks using C, Python, OpenCV, Ada, and Matlab on a Linux platform for data acquisition and signal processing on the Soli radar device. Developed biometric and gesture detection/estimation algorithms using machine learning, sensor fusion, feature point tracking, beamforming, spectral analysis and pattern recognition algorithms on Photoplethysmographic (PPG) and Frequency-Modulated Continuous-Wave (FMCW) signal information."
+  institution-url: https://www.asu.edu/
+  group-url: https://ivulab.asu.edu/
+  type: industry
+
+- institution: Honeywell
+  location: "Phoenix, AZ"
+  position: Intern
+  group: "Test Services"
+  year: May 2016 —
+  year-extra: Aug. 2016
+  description: "Refined MySQL/PHP/HTML/CSS/JavaScript-based web applications for employee records and schedules."
+  institution-url: https://www.honeywell.com/us/en
+  type: industry
+  ismentor: true
+  mentors: 
+    - Craig Stevens
+    - Bob Apodaca
+
+- institution: Honeywell
+  location: "Phoenix, AZ"
+  position: Intern
+  group: "Test Services"
+  year: May 2015 —
+  year-extra: Aug. 2015
+  description: "Updated software and hardware logic programs for automated engine tests."
+  institution-url: https://www.honeywell.com/us/en
+  type: industry
+  ismentor: true
+  mentors: 
+    - Craig Stevens
+    - Bob Apodaca

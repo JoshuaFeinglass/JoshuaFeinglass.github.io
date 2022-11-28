@@ -1,0 +1,9 @@
+/* TEAM */
+	Author: Joshua Feinglass
+	Email: Joshua.Feinglass@asu.edu
+	Location: Scottsdale, United States
+
+/* SITE */
+    Language: English
+	Standards: HTML5, CSS3
+	Software: Jekyll

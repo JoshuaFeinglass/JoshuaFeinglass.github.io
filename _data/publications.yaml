@@ -1,0 +1,53 @@
+- id: CSD
+  title: "Covariate Shift Detection via Domain Interpolation Sensitivity"
+  authors: 
+    - Tejas Gokhale
+    - Joshua Feinglass
+    - Yezhou Yang
+  equal-contribution:
+    - Tejas Gokhale
+    - Joshua Feinglass
+  venue: NeurIPS 2022 Workshop INTERPOLATE
+  venue-shorthand: NIPS Workshop
+  location: New Orleans, LA
+  year: 2022
+  pdf: https://openreview.net/forum?id=YkPjTHZDdm
+  image: /images/papers/csd.png
+  feature-title: "Interpolation for Covariate Shift Detection"
+  feature-description: "Covariate shift detection as a robustness benchmark as well as a proposed interpolation-based technique for improving covariate shift detection performance."
+  featured: True
+  bibtex: |-
+    @inproceedings{
+      gokhale2022covariate,
+      title={Covariate Shift Detection via Domain Interpolation Sensitivity},
+      author={Tejas Gokhale and Joshua Feinglass and Yezhou Yang},
+      booktitle={ First Workshop on Interpolation Regularizers and Beyond at NeurIPS 2022},
+      year={2022},
+      url={https://openreview.net/forum?id=YkPjTHZDdm}
+    }
+
+- id: smurf
+  title: "SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis"
+  authors:
+    - Joshua Feinglass
+    - Yezhou Yang
+  venue: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics
+  venue-shorthand: ACL
+  location: Online
+  year: 2021
+  pdf: https://aclanthology.org/2021.acl-long.175/
+  feature-title: "SMURF: SeMantic and linguistic UndeRstanding Fusion"
+  feature-description: "Identifying and incorporating style in evaluation and refining the semantic representation of captions."
+  image: /images/papers/smurf.png
+  featured: True
+  bibtex: |-
+    @inproceedings{feinglass2021smurf,
+      title={SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis},
+      author={Joshua Feinglass and Yezhou Yang},
+      booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+      year={2021},
+      url={https://aclanthology.org/2021.acl-long.175/}
+    }
+
+
+

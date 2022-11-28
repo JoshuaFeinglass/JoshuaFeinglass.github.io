@@ -1,0 +1,27 @@
+- degree: "Ph.D. in Computer Engineering w/ Machine Learning Specialization"
+  institution: Arizona State University
+  location: "Tempe, AZ"
+  advisor: Yezhou Yang
+  description: 
+    - "GPA: 3.78/4.00"
+  years: "Aug. 2019 —"
+  years-extra: "Dec. 2023"
+  institution-url: https://www.asu.edu/
+
+- degree: "M.S. in Computer Engineering w/ Machine Learning Specialization"
+  institution: Arizona State University
+  location: "Tempe, AZ"
+  years: "Aug. 2016 —"
+  years-extra: "May 2018"
+  description: 
+    - "GPA: 3.93/4.00"
+  institution-url: https://www.asu.edu/
+
+- degree: "B.S. in Computer Science"
+  years: "May 2017 —"
+  years-extra: "Aug. 2015"
+  institution: Arizona State University
+  location: "Tempe, AZ"
+  description: 
+    - "GPA: 3.85/4.00"
+  institution-url: https://www.asu.edu/

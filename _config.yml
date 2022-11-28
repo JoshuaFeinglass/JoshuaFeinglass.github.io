@@ -1,0 +1,33 @@
+
+title: Joshua Feinglass
+tagline:             
+url: http://www.joshuafeinglass.com
+baseurl: ""
+# gems: [jekyll-paginate]
+# paginate: 5
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+author:
+  name: Joshua Feinglass
+  url: http://www.joshuafeinglass.com
+  email: matomot64@gmail.com
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class: 'syntax'
+
+excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+  
+  

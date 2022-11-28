@@ -1,0 +1,77 @@
+<p>
+	<span class="cv-left-date">{{ degree.years }}</span>{% if degree.years-extra %}<span class="cv-left-date-mobile">{{ degree.years-extra }}</span>{% endif %}<strong>{{ degree.degree }}</strong>
+	<br>
+	<span class="cv-left-date-extra">{{ degree.years-extra }}</span><a href="{{ degree.institution-url }}">{{ degree.institution }}</a>, {{ degree.location }}
+	<br>
+	<span class="cv-description">
+	{% if degree.advisor %}
+		Advisor: {% include person.html person=degree.advisor %}
+	<br>
+	{% endif %}
+	</span>
+	
+{% if degree.thesis %}
+	<span class="cv-description">
+		Thesis: <a href="{{ degree.thesis-link }}"><i>{{ degree.thesis }}</i></a>
+	</span>
+	<br>
+{% endif %}
+
+{% if degree.committee %}
+	<span class="cv-description">
+		Committee:
+		{% for person in degree.committee %}
+			{% if forloop.last == false %}
+				{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}{% endif %}{% endfor %},
+			{% else if forloop.last == true %}
+				{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}{% endif %}{% endfor %}
+			{% endif %}
+		{% endfor %}
+	</span>
+	<br>
+{% endif %}
+
+{% if degree.description %}
+	<span class="cv-description">
+		{% for item in degree.description %}
+			{{ item }}
+		{% endfor %}
+	</span>
+<br>
+{% endif %}
+
+	
+	<span class="pub-misc">
+	{% if degree.thesis-link %}
+		<a href="{{ degree.thesis-link }}">
+			<i class="fas fa-link" aria-hidden="true"></i> Thesis Project Page
+		</a>
+	{% endif %}
+	
+	{% if degree.thesis-pdf %}
+		<a href="{{ degree.thesis-pdf }}">
+			<i class="fas fa-file-pdf" aria-hidden="true"></i> Thesis
+		</a>
+	{% endif %}
+
+	{% if degree.thesis-video %}
+		<a href="{{ degree.thesis-video }}">
+			<i class="fas fa-video pub-misc" aria-hidden="true"></i> Thesis Recording
+		</a>
+	{% endif %}
+	
+	{% if degree.proposal-video %}
+		<a href="{{ degree.proposal-video }}">
+			<i class="fas fa-video pub-misc" aria-hidden="true"></i> Thesis Recording (Proposal)
+		</a>
+	{% endif %}
+	
+	{% if degree.thesis-slides %}
+		<a href="{{ degree.thesis-slides }}">
+			<i class="fas fa-link" aria-hidden="true"></i> Thesis Slides
+		</a>
+	{% endif %}
+	</span>
+
+	
+</p>

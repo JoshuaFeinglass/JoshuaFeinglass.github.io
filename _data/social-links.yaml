@@ -1,0 +1,55 @@
+- id: home
+  description: "joshuafeinglass.com"
+  color: "#515151"
+  class: "fas fa-home icon"
+  url: "https://joshuafeinglass.com"
+  on-homepage: false
+  on-cv: true
+  cv-group: 1
+
+- id: email
+  description: "Joshua.Feinglass@asu.edu"
+  color: "#059"
+  class: "fas fa-envelope icon"
+  url: "mailto:Joshua.Feinglass@asu.edu"
+  on-homepage: true
+  on-cv: true
+  cv-group: 1
+
+- id: github
+  description: "Github"
+  color: "#6e5494"
+  class: "fab fa-github icon"
+  url: "https://github.com/JoshuaFeinglass"
+  on-homepage: true
+  on-cv: true
+  cv-group: 2
+
+- id: linkedin
+  description: "Linkedin"
+  color: "#6e5494"
+  class: "fab fa-linkedin icon"
+  url: "https://www.linkedin.com/in/joshua-feinglass-b1ba23a2"
+  on-homepage: true
+  on-cv: true
+  cv-group: 2
+  
+- id: scholar
+  description: "Google Scholar"
+  color: "#515151"
+  class: "fa fa-graduation-cap icon"
+  url: "https://scholar.google.com/citations?user=V2h3z7oAAAAJ&hl=en"
+  on-homepage: true
+  on-cv: true
+  cv-group: 1
+  
+- id: cv
+  description: Curriculum Vitae (PDF) 
+  color: "#ba2818"
+  class: "far fa-file-pdf icon"
+  url: "https://joshuafeinglass.com/cv.pdf"
+  on-homepage: true
+  on-cv: false
+  cv-group: 1
+
+
