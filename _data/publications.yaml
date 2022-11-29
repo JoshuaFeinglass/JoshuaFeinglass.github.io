@@ -11,7 +11,7 @@
   venue-shorthand: NIPS Workshop
   location: New Orleans, LA
   year: 2022
-  pdf: https://openreview.net/forum?id=YkPjTHZDdm
+  url: https://openreview.net/forum?id=YkPjTHZDdm
   image: /images/papers/csd.png
   feature-title: "Interpolation for Covariate Shift Detection"
   feature-description: "Covariate shift detection as a robustness benchmark as well as a proposed interpolation-based technique for improving covariate shift detection performance."
@@ -21,7 +21,7 @@
       gokhale2022covariate,
       title={Covariate Shift Detection via Domain Interpolation Sensitivity},
       author={Tejas Gokhale and Joshua Feinglass and Yezhou Yang},
-      booktitle={ First Workshop on Interpolation Regularizers and Beyond at NeurIPS 2022},
+      booktitle={First Workshop on Interpolation Regularizers and Beyond at NeurIPS 2022},
       year={2022},
       url={https://openreview.net/forum?id=YkPjTHZDdm}
     }
@@ -35,7 +35,7 @@
   venue-shorthand: ACL
   location: Online
   year: 2021
-  pdf: https://aclanthology.org/2021.acl-long.175/
+  url: https://aclanthology.org/2021.acl-long.175/
   feature-title: "SMURF: SeMantic and linguistic UndeRstanding Fusion"
   feature-description: "Identifying and incorporating style in evaluation and refining the semantic representation of captions."
   image: /images/papers/smurf.png

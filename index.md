@@ -23,10 +23,13 @@ title: Home
 
 	<div class="intro-text">
 	<p markdown="1" style="font-size: 14pt; padding-left:0rem">
-		I'm a 4th year PhD student in the <a href="https://yezhouyang.engineering.asu.edu/research-group/" style="color:#005599">ASU APG</a> lab advised by Yezhou Yang and working on <b>generalizable+robust</b> models and evaluations for the deployment of safe and reliable AI systems. More specifically, my thesis will focus on exploring novel representations of vision and language signals in order to improve and characterize <b>model performance in unfamiliar test domains</b> and identify and address <b>gameable aspects of well-established metrics</b>. 
+		I'm a 4th year PhD student developing <b>generalizable</b> and <b>robust</b> models to ensure the deployment of safe and reliable AI systems.
 	</p>
 	<p markdown="1" style="font-size: 14pt; padding-left:0rem">
-		I am currently interning at <img class="intro-logo" style="width: 100px;" src="/images/logos/llnl.png">  Lawrence Livermore National Lab, where I am developing and publishing a State-of-the-Art and highly generalizable Zero-Shot Learning architecture with pre-trained vision pipelines, model regularization techniques, and automated external knowledge retrieval from natural language sources. I previously worked full-time as a Senior Digital Signal Processing Engineering at <img class="intro-logo" style="width: 100px;" src="/images/logos/gd.png"> General Dynamics where I primarily designed efficient algorithms for spectral decomposition, detection, characterization, and classification of communication and radar signals.
+		I work in the <a href="https://yezhouyang.engineering.asu.edu/research-group/" style="color:#005599">ASU APG</a> lab where I'm advised by Yezhou Yang. I am currently interning at <img class="intro-logo" style="width: 25px;" src="/images/logos/llnl.png">  Lawrence Livermore National Lab, where we're developing novel zero-shot deep learning architectures using image and natural language data sources.
+	</p>
+	<p markdown="1" style="font-size: 14pt; padding-left:0rem">
+		I previously worked full-time as a Senior Digital Signal Processing Engineering at <img class="intro-logo" style="width: 25px;" src="/images/logos/gd.png"> General Dynamics where I designed algorithms for spectral decomposition, detection, characterization, and classification of communication and radar signals.
     </p>
  	</div>
 

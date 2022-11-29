@@ -5,6 +5,7 @@
   year: May 2021 —
   year-extra: Present
   description: "Developed highly generalizable Zero-Shot Learning architecture with novel regularization techniques, a pre-trained vision pipeline, and external knowledge retrieval."
+  instiution-url: https://www.llnl.gov/
   group-url: https://computing.llnl.gov/
   type: industry
   ismentor: true
@@ -23,6 +24,7 @@
   Developed algorithms for detecting communication and radar signals of interest and estimating their time and frequency characteristics for downstream decoding, classification, and localization tasks.
   Automated and optimized the creation of data compression pipelines for efficient communication channels and downstream data visualization tasks based on project requirements."
   institution-url: https://gdmissionsystems.com/
+  group-url: https://gdmissionsystems.com/
   type: industry
   ismentor: False
 
@@ -65,6 +67,7 @@
   year-extra: Aug. 2016
   description: "Refined MySQL/PHP/HTML/CSS/JavaScript-based web applications for employee records and schedules."
   institution-url: https://www.honeywell.com/us/en
+  group-url: https://www.honeywell.com/us/en
   type: industry
   ismentor: true
   mentors: 
@@ -79,6 +82,7 @@
   year-extra: Aug. 2015
   description: "Updated software and hardware logic programs for automated engine tests."
   institution-url: https://www.honeywell.com/us/en
+  group-url: https://www.honeywell.com/us/en
   type: industry
   ismentor: true
   mentors: 
