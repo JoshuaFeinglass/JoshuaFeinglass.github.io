@@ -1,0 +1,19 @@
+{
+  "name": "JoshuaFeinglass.github.io",
+  "version": "1.0.0",
+  "description": "Joshua Feinglass's website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaFeinglass/JoshuaFeinglass.github.io.git"
+  },
+  "author": "Joshua Feinglass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshuaFeinglass/JoshuaFeinglass.github.io/issues"
+  },
+  "homepage": "https://github.com/JoshuaFeinglass/JoshuaFeinglass.github.io#readme"
+}
