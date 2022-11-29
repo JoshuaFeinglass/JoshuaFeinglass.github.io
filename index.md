@@ -8,7 +8,7 @@ title: Home
 
 <div class="intro">
 	<div class="intro-image">
-		<img src="/images/prof_pic.jpg" style="border-radius: 2px;">
+		<img src="/images/prof_pic.png" style="border-radius: 2px;">
 
 		<div class="intro-image-links" style="margin-left:0px; margin-top:5px">
 			{% for link in site.data.social-links %}
