@@ -8,7 +8,7 @@
     - Tejas Gokhale
     - Joshua Feinglass
   venue: NeurIPS 2022 Workshop INTERPOLATE
-  venue-shorthand: NIPS Workshop
+  venue-shorthand: NeurIPS Workshop
   location: New Orleans, LA
   year: 2022
   url: https://openreview.net/forum?id=YkPjTHZDdm
@@ -48,6 +48,18 @@
       year={2021},
       url={https://aclanthology.org/2021.acl-long.175/}
     }
+
+- id: game
+  title: "Gameability of Object Proposal Evaluation"
+  authors: 
+    - Joshua Feinglass
+    - Yezhou Yang
+  venue-shorthand: UNDER REVIEW
+  year: 2022
+  image: /images/papers/game.png
+  feature-title: "Gameability of Object Proposal Evaluation"
+  feature-description: "Addressing gameability by computing object importance scores using semantic modeling and graph signal processing. Draft not yet publicly available."
+  featured: True
 
 
 
