@@ -1,11 +1,11 @@
 - title: "Covariate Shift Detection via Domain Interpolation Sensitivity"
-  location: "NeurIPS 2022"
+  location: "NeurIPS 2022 Workshop INTERPOLATE"
   month: "Dec."
   year: 2022
 
 - title: "Recognizing Unseen Classes with Part-Whole Prototypes"
   location: "Summer SLAM at Lawrence Livermore National Lab"
-  month: "Aug"
+  month: "Aug."
   year: 2022
 
 - title: "Identifying Features of Out-of-Distribution Examples and their ties to Improved Evaluation of Generation Tasks"
