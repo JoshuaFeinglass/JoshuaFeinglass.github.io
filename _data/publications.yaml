@@ -59,7 +59,7 @@
   image: /images/papers/game.png
   feature-title: "Gameability of Object Proposal Evaluation"
   feature-description: "Addressing gameability by computing object importance scores using semantic modeling and graph signal processing. Draft not yet publicly available."
-  featured: True
+  featured: False
 
 
 
