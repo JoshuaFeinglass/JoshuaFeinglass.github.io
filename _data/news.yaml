@@ -1,3 +1,11 @@
+- name: Our Misalignment in Object Detection work was accepted into a <b>WACV 2024</b>.
+  featured: true
+  year: 2023
+
+- name: I joined <b>Microsoft Research</b> as a Research Intern.
+  featured: true
+  year: 2023
+
 - name: Our Covariate Shift Detection work was accepted into a <b>NeurIPS 2022 Workshop</b> as a <b>spotlight</b> presentation.
   featured: true
   year: 2022

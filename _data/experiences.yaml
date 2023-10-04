@@ -1,9 +1,24 @@
+- institution: Microsoft
+  location: "Redmond, WA"
+  position: Research Intern
+  group: "Microsoft Research"
+  year: May 2023 — 
+  year-extra: Aug. 2023
+  description: "Developed model for anticipating and analyzing security incident evolution"
+  instiution-url: https://www.microsoft.com/
+  group-url: https://www.microsoft.com/research/
+  type: industry
+  ismentor: true
+  mentors:
+    - Jack (Jay) Stokes
+    - Scott Freitas
+
 - institution: Lawrence Livermore National Lab
   location: "Livermore, CA"
   position: Graduate Research Intern
   group: "Computing at LLNL"
-  year: May 2021 —
-  year-extra: Present
+  year: May 2022 —
+  year-extra: Dec. 2022
   description: "Developed highly generalizable Zero-Shot Learning architecture with novel regularization techniques, a pre-trained vision pipeline, and external knowledge retrieval."
   instiution-url: https://www.llnl.gov/
   group-url: https://computing.llnl.gov/

@@ -50,16 +50,25 @@
     }
 
 - id: game
-  title: "Evaluation"
+  title: "Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding"
   authors: 
     - Joshua Feinglass
     - Yezhou Yang
-  venue-shorthand: UNDER REVIEW
-  year: 2022
+  venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision
+  venue-shorthand: WACV
+  year: 2024
+  url: https://arxiv.org/abs/2309.00215
+  feature-title: "Misalignment in Object Detection"
+  feature-description: "Addressing misalignment object dection by computing object importance scores using semantic modeling and graph signal processing."
   image: /images/papers/game.png
-  feature-title: "Gameability of Object Proposal Evaluation"
-  feature-description: "Addressing gameability by computing object importance scores using semantic modeling and graph signal processing. Draft not yet publicly available."
-  featured: False
-
+  featured: True
+  bibtex: |-
+    @inproceedings{feinglass2024vldet,
+      title={Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding},
+      author={Joshua Feinglass and Yezhou Yang},
+      booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+      year={2024},
+      url={https://arxiv.org/abs/2309.00215}
+    }
 
 
