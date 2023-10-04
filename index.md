@@ -26,7 +26,7 @@ title: Home
 		I'm a 5th year PhD student developing <b>generalizable</b> and <b>robust</b> models to ensure the deployment of safe and reliable AI systems.
 	</p>
 	<p markdown="1" style="font-size: 14pt; padding-left:0rem">
-		I work in the <a href="https://yezhouyang.engineering.asu.edu/research-group/" style="color:#005599">ASU APG</a> lab where I'm advised by Yezhou Yang. I previously interned at <img class="intro-logo" style="width: 25px;" src="/images/logos/ms.png">  Microsoft, where I developed a model for anticipating and analyzing security incident evolution, and <img class="intro-logo" style="width: 25px;" src="/images/logos/llnl.png">  Lawrence Livermore National Lab, where I developed a novel zero-shot deep learning architecture using image and natural language data sources.
+		I work in the <a href="https://yezhouyang.engineering.asu.edu/research-group/" style="color:#005599">ASU APG</a> lab where I'm advised by Yezhou Yang. I previously interned at <img class="intro-logo" style="width: 25px;" src="/images/logos/ms.png">  Microsoft Research, where I developed a model for anticipating and analyzing security incident evolution, and <img class="intro-logo" style="width: 25px;" src="/images/logos/llnl.png">  Lawrence Livermore National Lab, where I developed a novel zero-shot deep learning architecture using image and natural language data sources.
 	</p>
 	<p markdown="1" style="font-size: 14pt; padding-left:0rem">
 		I previously worked full-time as a Senior Digital Signal Processing Engineering at <img class="intro-logo" style="width: 25px;" src="/images/logos/gd.png"> General Dynamics where I designed algorithms for spectral decomposition, detection, characterization, and classification of communication and radar signals.
