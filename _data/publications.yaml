@@ -8,7 +8,7 @@
   year: 2024
   url: https://arxiv.org/abs/2309.00215
   feature-title: "Misalignment in Object Detection"
-  feature-description: "Addressing misalignment object dection by computing object importance scores using semantic modeling and graph signal processing."
+  feature-description: "Introduces and addresses upstream and downstream task misalignment using semantic modeling and graph signal processing."
   image: /images/papers/game.png
   featured: True
   bibtex: |-

@@ -1,12 +1,12 @@
-- institution: Microsoft
+- institution: Microsoft Research
   location: "Redmond, WA"
   position: Research Intern
-  group: "Microsoft Research"
+  group: "Augmented Learning and Reasoning"
   year: May 2023 — 
   year-extra: Aug. 2023
-  description: "Developed model for anticipating and analyzing security incident evolution"
-  instiution-url: https://www.microsoft.com/
-  group-url: https://www.microsoft.com/research/
+  description: "Developed novel datasets, machine learning models, and benchmarks for forecasting and analyzing cybersecurity incident escalation. Further explored potential implementation options and use cases to demonstrate feasibility and product impact, respectively."
+  instiution-url: https://www.microsoft.com/research/
+  group-url: https://www.microsoft.com/en-us/research/group/augmented-learning-and-reasoning/
   type: industry
   ismentor: true
   mentors:
@@ -19,7 +19,7 @@
   group: "Computing at LLNL"
   year: May 2022 —
   year-extra: Dec. 2022
-  description: "Developed highly generalizable Zero-Shot Learning architecture with novel regularization techniques, a pre-trained vision pipeline, and external knowledge retrieval."
+  description: "Developed a highly generalizable Zero-Shot Learning architecture with pre-trained vision pipelines, automated external knowledge retrieval from natural language sources, and model regularization techniques."
   instiution-url: https://www.llnl.gov/
   group-url: https://computing.llnl.gov/
   type: industry
