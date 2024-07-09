@@ -1,3 +1,15 @@
+- name: Our Domain Generalization work was accepted into a <b>CVPR 2024 Workshop</b> and won the <b>best paper</b> award.
+  featured: true
+  year: 2024
+
+- name: Our Part Prototype Network work was accepted into a <b>CVPR 2024 Workshop</b>.
+  featured: true
+  year: 2024
+
+- name: I joined <b>Green Squirrel Research</b> as a Principal Investigator.
+  featured: true
+  year: 2023
+
 - name: Our Misalignment in Object Detection work was accepted to <b>WACV 2024</b>.
   featured: true
   year: 2023

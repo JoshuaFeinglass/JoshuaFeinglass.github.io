@@ -1,3 +1,15 @@
+- institution: Green Squirrel Research
+  location: "Huntsville, AL"
+  position: Co-Founder/Principal Investigator
+  group: "AI at GSR"
+  year: Dec. 2023 — 
+  year-extra: Present
+  description: "Leading and conducting research for start-up specialized in machine learning and artificial intelligence for natural language processing and computer vision."
+  instiution-url: https://www.joshuafeinglass.com
+  group-url: https://www.joshuafeinglass.com
+  type: industry
+  ismentor: false
+
 - institution: Microsoft Research
   location: "Redmond, WA"
   position: Research Intern
@@ -48,7 +60,7 @@
   position: PhD Researcher
   group:  Active Perception Group
   year: "Jan. 2020 —"
-  year-extra: "Present"
+  year-extra: "May 2024"
   ismentor: true
   mentors:
     - Yezhou Yang

@@ -1,3 +1,54 @@
+- id: ppn
+  title: "'Eyes of a Hawk and Ears of a Fox': Part Prototype Network for Generalized Zero-Shot Learning"
+  authors: 
+    - Joshua Feinglass
+    - Jayaraman J. Thiagarajan
+    - Rushil Anirudh
+    - T.S. Jayram
+    - Yezhou Yang
+  venue: CVPR 2024 Workshop on Representation Learning with Very Limited Images
+  venue-shorthand: CVPR Workshop
+  year: 2024
+  url: https://openaccess.thecvf.com/content/CVPR2024W/LIMIT/papers/Feinglass_Eyes_of_a_Hawk_and_Ears_of_a_Fox_Part_CVPRW_2024_paper.pdf
+  feature-title: "Part Prototype Network for Zero-Shot Learning"
+  feature-description: "Utilizes a pre-trained Vision-Language detector combined with the proposed Part Prototype Network architecture as a lightweight and competitive model."
+  image: /images/papers/ppn.png
+  featured: True
+  bibtex: |-
+    @inproceedings{feinglass2024ppn},
+      title={'Eyes of a Hawk and Ears of a Fox': Part Prototype Network for Generalized Zero-Shot Learning},
+      author={Joshua Feinglass, Jayaraman J. Thiagarajan, Rushil Anirudh, T.S. Jayram, and Yezhou Yang},
+      booktitle={CVPR 2024 Workshop on Representation Learning with Very Limited Images},
+      year={2024},
+      url={https://openaccess.thecvf.com/content/CVPR2024W/LIMIT/papers/Feinglass_Eyes_of_a_Hawk_and_Ears_of_a_Fox_Part_CVPRW_2024_paper.pdf}
+    }
+
+- id: synthetic
+  title: "Grounding Stylistic Domain Generalization with Quantitative Domain Shift Measures and Synthetic Scene Images"
+  authors: 
+    - Yiran Luo
+    - Joshua Feinglass
+    - Tejas Gokhale
+    - Kuan-Cheng Lee
+    - Chitta Baral
+    - Yezhou Yang
+  venue: CVPR 2024 Workshop on Vision Datasets Understanding
+  venue-shorthand: CVPR Workshop
+  year: 2024
+  url: https://openaccess.thecvf.com/content/CVPR2024W/VDU/papers/Luo_Grounding_Stylistic_Domain_Generalization_with_Quantitative_Domain_Shift_Measures_and_CVPRW_2024_paper.pdf
+  feature-title: "Grounding Stylistic Domain Generalization"
+  feature-description: "Introduces a Super Mario dataset and domain shift measures."
+  image: /images/papers/synthetic.png
+  featured: False
+  bibtex: |-
+    @inproceedings{luo2024synthetic,
+      title={Grounding Stylistic Domain Generalization with Quantitative Domain Shift Measures and Synthetic Scene Images},
+      author={Yiran Luo, Joshua Feinglass, Tejas Gokhale, Kuan-Cheng Lee, Chitta Baral, and Yezhou Yang},
+      booktitle={CVPR 2024 Workshop on Vision Datasets Understanding},
+      year={2024},
+      url={https://openaccess.thecvf.com/content/CVPR2024W/VDU/papers/Luo_Grounding_Stylistic_Domain_Generalization_with_Quantitative_Domain_Shift_Measures_and_CVPRW_2024_paper.pdf}
+    }
+
 - id: game
   title: "Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding"
   authors: 
@@ -37,7 +88,7 @@
   image: /images/papers/csd.png
   feature-title: "Interpolation for Covariate Shift Detection"
   feature-description: "Covariate shift detection as a robustness benchmark as well as a proposed interpolation-based technique for improving covariate shift detection performance."
-  featured: True
+  featured: False
   bibtex: |-
     @inproceedings{
       gokhale2022covariate,
