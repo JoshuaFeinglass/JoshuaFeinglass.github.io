@@ -1,6 +1,6 @@
 /* TEAM */
 	Author: Joshua Feinglass
-	Email: Joshua.Feinglass@asu.edu
+	Email: Joshua.Feinglass@greensquirrel.net
 	Location: Scottsdale, United States
 
 /* SITE */

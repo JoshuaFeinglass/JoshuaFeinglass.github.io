@@ -8,10 +8,10 @@
   cv-group: 1
 
 - id: email
-  description: "Joshua.Feinglass@asu.edu"
+  description: "Joshua.Feinglass@greensquirrel.net"
   color: "#059"
   class: "fas fa-envelope icon"
-  url: "mailto:Joshua.Feinglass@asu.edu"
+  url: "mailto:Joshua.Feinglass@greensquirrel.net"
   on-homepage: true
   on-cv: true
   cv-group: 1
