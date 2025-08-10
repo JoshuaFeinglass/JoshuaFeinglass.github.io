@@ -1,3 +1,7 @@
+- name: I graduated with a <b>PhD in Computer Engineering</b> from Arizona State University.
+  featured: true
+  year: 2024
+
 - name: Our Fine-Grained Zero-Shot Image Captioning work was accepted to <b>EMNLP 2024 Findings</b>.
   featured: true
   year: 2024

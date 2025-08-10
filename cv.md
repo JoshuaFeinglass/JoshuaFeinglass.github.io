@@ -10,15 +10,15 @@ jsarr:
 
 
 <br/><span class="cv-max-width"> 
-		I'm a 5th year PhD student developing <b>generalizable</b> and <b>robust</b> models to ensure the deployment of safe and reliable AI systems. 
+		I'm a Founder and Principal Investigator at Green Squirrel Research developing <b>generalizable</b> and <b>robust</b> models for the deployment of safe and reliable AI systems. I received my PhD in Computing Engineering (specialized in Machine Learning) from Arizona State University in December 2024.
 </span>
 
 <span class="cv-max-width">
-		I work in the <a href="https://yezhouyang.engineering.asu.edu/research-group/" style="color:#005599">ASU APG</a> lab where I'm advised by Yezhou Yang. I previously interned at <img class="intro-logo" style="width: 25px;" src="/images/logos/ms.png">  Microsoft Research, where I developed novel datasets, machine learning models, and benchmarks for forecasting and analyzing cybersecurity incident escalation, and <img class="intro-logo" style="width: 25px;" src="/images/logos/llnl.png">  Lawrence Livermore National Lab, where I developed a novel zero-shot deep learning architecture using image and natural language data sources.
+		During my PhD studies, I worked in the <a href="https://yezhouyang.engineering.asu.edu/research-group/" style="color:#005599">ASU APG</a> lab where I was advised by Yezhou Yang. I interned at <img class="intro-logo" style="width: 25px;" src="/images/logos/ms.png">  Microsoft Research, where I developed novel datasets, machine learning models, and benchmarks for forecasting and analyzing cybersecurity incident escalation, and <img class="intro-logo" style="width: 25px;" src="/images/logos/llnl.png">  Lawrence Livermore National Lab, where I developed a novel zero-shot deep learning architecture using image and natural language data sources. Prior to pursuing my Signal Processing/Machine Learning specialized Master's degree in 2016, I also interned for two summers at <img class="intro-logo" style="width: 75px;" src="/images/logos/honeywell.png"> Honeywell where I worked on web development, test automation scripts, electrical component diagrams, and hardware programming.
 </span>
 
 <span class="cv-max-width">
-		I previously worked full-time as a Senior Digital Signal Processing Engineering at <img class="intro-logo" style="width: 25px;" src="/images/logos/gd.png"> General Dynamics where I designed algorithms for spectral decomposition, detection, characterization, and classification of communication and radar signals.
+		After receiving my Master's degree, I worked full-time as a Senior Digital Signal Processing Engineering at <img class="intro-logo" style="width: 25px;" src="/images/logos/gd.png"> General Dynamics where I designed algorithms for spectral decomposition, detection, characterization, and classification of communication and radar signals before pursing my PhD.
 </span>
 
 <div class="cv-image-links-wrapper" style="font-size: 16px; padding-bottom: 0;">

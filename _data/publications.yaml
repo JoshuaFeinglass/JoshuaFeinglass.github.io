@@ -1,14 +1,35 @@
+- id: dis
+  title: "Towards Modeling the Implicit Ontologies of Natural Language for Vision-Language Benchmarks"
+  authors: 
+    - Joshua Feinglass
+  venue: "Arizona State University"
+  venue-shorthand: Dissertation
+  year: 2024
+  url: https://www.proquest.com/openview/2ca611771da0f0d48baabe5b2c96aa7a/1?pq-origsite=gscholar&cbl=18750&diss=y
+  feature-title: "Towards Modeling the Implicit Ontologies of Natural Language for Vision-Language Benchmarks"
+  feature-description: "Towards Modeling the Implicit Ontologies of Natural Language for Vision-Language Benchmarks"
+  image: /images/papers/trope.png
+  featured: False
+  bibtex: |-
+    @inproceedings{feinglass2024dis},
+      title={Towards Modeling the Implicit Ontologies of Natural Language for Vision-Language Benchmarks},
+      author={Joshua Feinglass},
+      booktitle={Arizona State University},
+      year={2024},
+      url={https://www.proquest.com/openview/2ca611771da0f0d48baabe5b2c96aa7a/1?pq-origsite=gscholar&cbl=18750&diss=y}
+    }
+
 - id: trope
   title: "TROPE: TRaining-Free Object-Part Enhancement for Seamlessly Improving Fine-Grained Zero-Shot Image Captioning"
   authors: 
     - Joshua Feinglass
     - Yezhou Yang
   venue: "Findings of the Association for Computational Linguistics: EMNLP 2024"
-  venue-shorthand: EMNLP 2024 Findings
+  venue-shorthand: EMNLP Findings
   year: 2024
   url: https://aclanthology.org/2024.findings-emnlp.207.pdf
   feature-title: "TROPE: TRaining-Free Object-Part Enhancement"
-  feature-description: "Improving Fine-Grained Zero-Shot Learning with detector-based object part enhancment."
+  feature-description: "Improving fine-grained zero-shot captioning with detector-based object part enhancment featuring state-of-the-art results and GPT4 integrated examples."
   image: /images/papers/trope.png
   featured: True
   bibtex: |-

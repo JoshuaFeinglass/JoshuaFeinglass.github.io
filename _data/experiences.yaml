@@ -5,8 +5,8 @@
   year: Nov. 2023 — 
   year-extra: Present
   description: "Leading and conducting research for start-up specialized in machine learning and artificial intelligence for computer vision and natural language processing. 
-  I am spearheading three separate product research and development efforts in 
-  robust extraction, search, and encapsulation of documents and their tables/figures, 
+  Spearheading three separate product research and development efforts in 
+  robust extraction/search/encapsulation of documents and their tables/figures, 
   segmentation and characterization of projectiles and ignition events in ballistic experiments, 
   and first-principles energy prediction in manufacturing with Large Language Models (LLMs)."
   instiution-url: https://www.joshuafeinglass.com
@@ -64,11 +64,11 @@
   position: PhD Researcher
   group:  Active Perception Group
   year: "Jan. 2020 —"
-  year-extra: "May 2024"
+  year-extra: "Dec. 2024"
   ismentor: true
   mentors:
     - Yezhou Yang
-  description: "Exploring concepts like knowledge representation/extraction, model generalization/robustness, and inference consistency/evaluation in Natural Language and Image Processing applications. First author of a novel information theory based evaluation of captions for semantics and fluency presented in ACL 2021, outlier detection/uncertainty estimation using domain interpolation based sensitivity analysis presented as a spotlight presentation in the  NeurIPS 2022 INTERPOLATE workshop, and an object detection work which introduces and addresses upstream and downstream task misalignment by computing object importance scores using semantic modeling and graph signal processing to be presented at WACV 2024."
+  description: "Explored concepts like knowledge representation/extraction, model generalization/robustness, and inference consistency/evaluation in Natural Language and Image Processing applications. First author of a novel information theory based evaluation of captions for semantics and fluency presented in ACL 2021, outlier detection/uncertainty estimation using domain interpolation based sensitivity analysis presented as a spotlight presentation in the NeurIPS 2022 INTERPOLATE workshop, an object detection work which introduces and addresses upstream and downstream task misalignment by computing object importance scores using semantic modeling and graph signal processing presented at WACV 2024, and an algorithm for detector-based object part enhancment in fine-grained zero-shot image captioning presented in EMNLP 2024 Findings."
   institution-url: https://www.asu.edu/
   group-url: https://yezhouyang.engineering.asu.edu/research-group/
   type: industry
