@@ -1,9 +1,7 @@
 - degree: "Ph.D. in Computer Engineering w/ Machine Learning Specialization"
   institution: Arizona State University
   location: "Tempe, AZ"
-  advisor: Yezhou Yang
-  thesis: Towards Modeling the Implicit Ontologies of Natural Language for Vision-Language Benchmarks
-  committee: Yezhou Yang, Gautam Dasarathy, Angelia Nedich, Daniel Bliss
+  committee: Yezhou Yang (Advisor), Gautam Dasarathy, Angelia Nedich, Daniel Bliss
   description: 
     - University Graduate Fellowship awardee <br>
     - Best Paper Award at CVPR 2024 VDU Workshop
