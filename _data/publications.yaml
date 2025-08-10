@@ -1,3 +1,25 @@
+- id: trope
+  title: "TROPE: TRaining-Free Object-Part Enhancement for Seamlessly Improving Fine-Grained Zero-Shot Image Captioning"
+  authors: 
+    - Joshua Feinglass
+    - Yezhou Yang
+  venue: "Findings of the Association for Computational Linguistics: EMNLP 2024"
+  venue-shorthand: EMNLP 2024 Findings
+  year: 2024
+  url: https://aclanthology.org/2024.findings-emnlp.207.pdf
+  feature-title: "TROPE: TRaining-Free Object-Part Enhancement"
+  feature-description: "Improving Fine-Grained Zero-Shot Learning with detector-based object part enhancment."
+  image: /images/papers/trope.png
+  featured: True
+  bibtex: |-
+    @inproceedings{feinglass2024trope},
+      title={TROPE: TRaining-Free Object-Part Enhancement for Seamlessly Improving Fine-Grained Zero-Shot Image Captioning},
+      author={Joshua Feinglass and Yezhou Yang},
+      booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
+      year={2024},
+      url={https://aclanthology.org/2024.findings-emnlp.207/}
+    }
+
 - id: ppn
   title: "'Eyes of a Hawk and Ears of a Fox': Part Prototype Network for Generalized Zero-Shot Learning"
   authors: 
@@ -61,7 +83,7 @@
   feature-title: "Misalignment in Object Detection"
   feature-description: "Introduces and addresses upstream and downstream task misalignment using semantic modeling and graph signal processing."
   image: /images/papers/game.png
-  featured: True
+  featured: False
   bibtex: |-
     @inproceedings{feinglass2024vldet,
       title={Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding},
